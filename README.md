@@ -1,4 +1,4 @@
-# [我的博客](https://zhengfc.netlify.app)
+# [博客](https://zhengfc.netlify.app)
 基于**Hexo**，主题为**NexT**的[blog](https://zhengfc.netlify.app)
 
 # 用到的技术  
