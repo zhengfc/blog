@@ -2,7 +2,7 @@
 基于**Hexo**，主题为**NexT**的[blog](https://zhengfc.netlify.app)
 
 # 技术栈 
-### 1.[Hexo](http://www.google.com/)  
+### 1.[Hexo](https://github.com/hexojs/hexo)  
 >A fast, simple & powerful blog framework, powered by Node.js.  
 
 用来搭建博客  
@@ -11,7 +11,7 @@
 
 用来构建博客主题  
 
-### 3.[Github](https://github.com/)  
+### 3.[Github](https://github.com)  
 托管博客源码  
 
 ### 4.[Netlify](https://github.com/netlify)  
