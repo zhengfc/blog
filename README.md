@@ -17,7 +17,7 @@
 ### 4.[Netlify](https://github.com/netlify)  
 >Netlify builds, deploys and hosts your front-end 
 
-部署博客，利用github hook自动发布    
+部署博客，利用其github hook自动发布    
 build command填```hexo generate```  
 public path填```/public```  
 
