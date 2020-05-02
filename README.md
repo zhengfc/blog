@@ -1,5 +1,5 @@
 # [myblog](https://zhengfc.netlify.app)
-基于**Hexo**，主题为**NexT**的blog
+基于**Hexo**，主题为**NexT**的[blog](https://zhengfc.netlify.app)
 
 # 用到的技术  
 ## [Hexo](http://www.google.com/)  
