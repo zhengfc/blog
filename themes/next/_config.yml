@@ -118,10 +118,10 @@ darkmode: false
 menu:
   home: / || fa fa-home
   #categories: /categories/ || fa fa-th
-  flutter: /categories/flutter/ || fa fa-mobile
-  life: /categories/life/ || fa fa-mobile
-  read: /categories/read/ || fa fa-mobile
-  something: /categories/something/ || fa fa-mobile
+  flutter: /categories/flutter/ || fa fa-th
+  life: /categories/life/ || fa fa-th
+  read: /categories/read/ || fa fa-th
+  something: /categories/something/ || fa fa-th
   #about: /about/ || fa fa-user
   tags: /tags/ || fa fa-tags
   archives: /archives/ || fa fa-archive
