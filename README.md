@@ -1,5 +1,5 @@
-# blog
-基于**hexo**，主题为**next**的blog
+# myblog
+基于**Hexo**，主题为**NexT**的blog
 
 # 用到的技术  
 ## [Hexo](http://www.google.com/)  
@@ -17,11 +17,11 @@
 ## [Netlify](https://github.com/netlify)  
 >Netlify builds, deploys and hosts your front-end 
 
-部署博客，并利用其自动github hook自动触发发布    
+部署博客，利用github hook自动发布    
 build command填```hexo generate```  
 public path填```/public```  
 
 ## [StackEdit](https://github.com/benweet/stackedit)  
 >Full-featured, open-source in-browser Markdown editor.  
 
-用来写博客，并利用其在线github同步功能，将目录指向hexo博客的```source/_posts```
+用来编写博客，利用其Github同步功能，将目录指向Hexo博客的```source/_posts```
