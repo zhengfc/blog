@@ -39,19 +39,15 @@ void main() {
     │   │   └── arabic.dart
     │   │   └── main.dart
     │   ├── test
-    │   │   ├── lunr.min.js
-    │   │   └── search-lunr.js
+    │   │   ├── hell_test.dart
     │   ├── web
-    │   │   ├── lunr.min.js
-    │   │   ├── search-engine.js
-    │   │   ├── search.css
-    │   │   └── search.js
+    │   │   ├── index.html
     ├── pubspec.lock
     └── pubspec.yaml
     ├── README.md
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAyMzE3MjksMTg3MTA4ODM4NCwtMT
+eyJoaXN0b3J5IjpbLTE3MTQ4NTY5MzIsMTg3MTA4ODM4NCwtMT
 I0NjI4MDgxOCw4MDcyNzg3NjMsLTM2NjI0MzQ3MCwtMzM1OTkw
 Mzk2XX0=
 -->
