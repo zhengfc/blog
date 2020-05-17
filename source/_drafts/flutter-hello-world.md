@@ -18,8 +18,11 @@ void main() {
 ```
 ## Flutter Hello World
 打开Android Studio，安装Dart和Flutter插件;选择Flutter Examples目录下的Hello World.
-### 项目如下suo shi
+### 项目如下所示
+``` bash
+hello world
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzUyOTkyNTUsODA3Mjc4NzYzLC0zNj
+eyJoaXN0b3J5IjpbLTEyNDYyODA4MTgsODA3Mjc4NzYzLC0zNj
 YyNDM0NzAsLTMzNTk5MDM5Nl19
 -->
