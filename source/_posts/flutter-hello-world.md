@@ -4,7 +4,7 @@ tags: [flutter, dart, hello world]
 categories: [flutter]
 date: 2020-05-17 15:54:00
 ---
-## 1. Flutter是什么
+## 1.Flutter是什么
 [Flutter](https://github.com/flutter/flutter) is Google's SDK for crafting beautiful, fast user experiences for mobile, web and desktop from a single codebase.  
 Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.  
 Flutter是基于Dart语言的.<!--more-->
@@ -54,6 +54,6 @@ void main() => runApp(const Center(child: Text('Hello, world!', textDirection: T
 ### 3.3 运行结果
 ![hello flutter](https://drive.google.com/file/d/1CzwGmYcLi8vJ8wK9NviTyCjqY3RoU4L6/view?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODA0NDc4ODMsLTEwMDQwNzA4NzcsLT
-c1MDA1NjczOSwtMTY5OTgwNjczNSwtNTIxMjUzNTk0XX0=
+eyJoaXN0b3J5IjpbMTQ1Mjk3MDcxOSwtMTAwNDA3MDg3NywtNz
+UwMDU2NzM5LC0xNjk5ODA2NzM1LC01MjEyNTM1OTRdfQ==
 -->
