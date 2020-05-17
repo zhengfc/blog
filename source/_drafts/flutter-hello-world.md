@@ -36,8 +36,8 @@ void main() {
     │   │   ├── ebook.css
     │   │   └── website.css
     │   ├── lib
+    │   │   └── arabic.dart
     │   │   └── main.dart
-    │   │   └── plugin.js
     │   ├── test
     │   │   ├── lunr.min.js
     │   │   └── search-lunr.js
@@ -46,13 +46,12 @@ void main() {
     │   │   ├── search-engine.js
     │   │   ├── search.css
     │   │   └── search.js
-    ├── index.html
-    └── search_index.json
-    ├── index.html
-    └── search_index.json
+    ├── pubspec.lock
+    └── pubspec.yaml
+    ├── README.md
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI2MTY1NTUsMTg3MTA4ODM4NCwtMT
+eyJoaXN0b3J5IjpbLTE3ODAyMzE3MjksMTg3MTA4ODM4NCwtMT
 I0NjI4MDgxOCw4MDcyNzg3NjMsLTM2NjI0MzQ3MCwtMzM1OTkw
 Mzk2XX0=
 -->
