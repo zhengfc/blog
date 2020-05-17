@@ -53,9 +53,9 @@ void main() => runApp(const Center(child: Text('Hello, world!', textDirection: T
 ```
 ### 运行结果
 <img src="https://drive.google.com/uc?id=1CzwGmYcLi8vJ8wK9NviTyCjqY3RoU4L6" width="50%"  alt="hello flutter" /> 
-![hello flutter](/media/2018/08/kitten.jpg){ width=50% }
+![hello flutter](https://drive.google.com/uc?id=1CzwGmYcLi8vJ8wK9NviTyCjqY3RoU4L6){ width=50% }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0ODQwNzg3LDg2MTgzMTc2OSw2NTQ4ND
+eyJoaXN0b3J5IjpbODA4NDAzOTE2LDg2MTgzMTc2OSw2NTQ4ND
 E1MTgsLTgwNDg1MTYzNywxMTc0ODA3MjMyLDcxMzkzMzI1NCwt
 MTE5Njk5NTEyNywxMzA3ODgzMjA3LDQ1ODYxMjQ3NiwtMTAwND
 A3MDg3NywtNzUwMDU2NzM5LC0xNjk5ODA2NzM1LC01MjEyNTM1
