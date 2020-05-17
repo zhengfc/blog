@@ -19,11 +19,45 @@ void main() {
 ## Flutter Hello World
 打开Android Studio，安装Dart和Flutter插件;选择Flutter Examples目录下的Hello World.
 ### 项目如下所示
-``` bash
---hello world
-
+```
+├── hello world
+    │   ├── fonts
+    │   │   └── fontawesome
+    │   │       ├── FontAwesome.otf
+    │   │       ├── fontawesome-webfont.eot
+    │   │       ├── fontawesome-webfont.svg
+    │   │       ├── fontawesome-webfont.ttf
+    │   │       ├── fontawesome-webfont.woff
+    │   │       └── fontawesome-webfont.woff2
+    │   ├── gitbook-plugin-fontsettings
+    │   │   ├── fontsettings.js
+    │   │   └── website.css
+    │   ├── gitbook-plugin-highlight
+    │   │   ├── ebook.css
+    │   │   └── website.css
+    │   ├── gitbook-plugin-livereload
+    │   │   └── plugin.js
+    │   ├── gitbook-plugin-lunr
+    │   │   ├── lunr.min.js
+    │   │   └── search-lunr.js
+    │   ├── gitbook-plugin-search
+    │   │   ├── lunr.min.js
+    │   │   ├── search-engine.js
+    │   │   ├── search.css
+    │   │   └── search.js
+    │   ├── gitbook-plugin-sharing
+    │   │   └── buttons.js
+    │   ├── gitbook.js
+    │   ├── images
+    │   │   ├── apple-touch-icon-precomposed-152.png
+    │   │   └── favicon.ico
+    │   ├── style.css
+    │   └── theme.js
+    ├── index.html
+    └── search_index.json
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTA4ODM4NCwtMTI0NjI4MDgxOCw4MD
-cyNzg3NjMsLTM2NjI0MzQ3MCwtMzM1OTkwMzk2XX0=
+eyJoaXN0b3J5IjpbLTIwMzU3NjI2MzEsMTg3MTA4ODM4NCwtMT
+I0NjI4MDgxOCw4MDcyNzg3NjMsLTM2NjI0MzQ3MCwtMzM1OTkw
+Mzk2XX0=
 -->
