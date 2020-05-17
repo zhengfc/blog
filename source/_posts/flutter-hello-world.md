@@ -52,12 +52,11 @@ import 'package:flutter/widgets.dart';
 void main() => runApp(const Center(child: Text('Hello, world!', textDirection: TextDirection.ltr)));
 ```
 ### 运行结果
-![hello flutter](https://drive.google.com/uc?id=1CzwGmYcLi8vJ8wK9NviTyCjqY3RoU4L6){:width="50%"}
 <div align="center"> <img src="https://drive.google.com/uc?id=1CzwGmYcLi8vJ8wK9NviTyCjqY3RoU4L6" width = 50% alt="hello flutter"> 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjUyNjY5MywxMTc0ODA3MjMyLDcxMz
-kzMzI1NCwtMTE5Njk5NTEyNywxMzA3ODgzMjA3LDQ1ODYxMjQ3
-NiwtMTAwNDA3MDg3NywtNzUwMDU2NzM5LC0xNjk5ODA2NzM1LC
-01MjEyNTM1OTRdfQ==
+eyJoaXN0b3J5IjpbLTE0Njk1NjQxNjAsMTE3NDgwNzIzMiw3MT
+M5MzMyNTQsLTExOTY5OTUxMjcsMTMwNzg4MzIwNyw0NTg2MTI0
+NzYsLTEwMDQwNzA4NzcsLTc1MDA1NjczOSwtMTY5OTgwNjczNS
+wtNTIxMjUzNTk0XX0=
 -->
