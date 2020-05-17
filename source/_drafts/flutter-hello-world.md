@@ -9,6 +9,11 @@ date: 2020-05-17 13:40:00
 Flutter是基于Dart语言的.
 ## Dart Hello World
 
+``` dart
+void main() {
+  print('hello world');
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI0NTI3OTksLTMzNTk5MDM5Nl19
+eyJoaXN0b3J5IjpbLTE3ODc4MzI3ODcsLTMzNTk5MDM5Nl19
 -->
