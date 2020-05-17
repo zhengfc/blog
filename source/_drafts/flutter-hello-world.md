@@ -39,9 +39,10 @@ void main() {
     └── pubspec.yaml
     ├── README.md
 ```
-lib下为程序入口，正如Flutter的定义一样Flutter代码能s
+lib下为程序入口，正如Flutter的定义一样Flutter代码能生存到移动端```android ios fuchsia```,web端.
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzkzNzc3NSw4MjQ4MjIzMTIsMTg3MT
+eyJoaXN0b3J5IjpbMjAxNTE0NzQwNCw4MjQ4MjIzMTIsMTg3MT
 A4ODM4NCwtMTI0NjI4MDgxOCw4MDcyNzg3NjMsLTM2NjI0MzQ3
 MCwtMzM1OTkwMzk2XX0=
 -->
