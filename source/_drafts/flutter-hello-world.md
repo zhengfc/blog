@@ -20,7 +20,7 @@ void main() {
 打开Android Studio，安装Dart和Flutter插件;选择Flutter Examples目录下的Hello World.
 ### 项目如下所示
 ```
-├── hello world
+├── hello_world
     │   ├── android
     │   │   └── fontawesome
     │   │       ├── FontAwesome.otf
@@ -36,6 +36,7 @@ void main() {
     │   │   ├── ebook.css
     │   │   └── website.css
     │   ├── lib
+    │   │   └── main.dart
     │   │   └── plugin.js
     │   ├── test
     │   │   ├── lunr.min.js
@@ -45,19 +46,13 @@ void main() {
     │   │   ├── search-engine.js
     │   │   ├── search.css
     │   │   └── search.js
-    │   ├── gitbook-plugin-sharing
-    │   │   └── buttons.js
-    │   ├── gitbook.js
-    │   ├── images
-    │   │   ├── apple-touch-icon-precomposed-152.png
-    │   │   └── favicon.ico
-    │   ├── style.css
-    │   └── theme.js
+    ├── index.html
+    └── search_index.json
     ├── index.html
     └── search_index.json
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTc1MDk5NywxODcxMDg4Mzg0LC0xMj
-Q2MjgwODE4LDgwNzI3ODc2MywtMzY2MjQzNDcwLC0zMzU5OTAz
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTE4MDI2MTY1NTUsMTg3MTA4ODM4NCwtMT
+I0NjI4MDgxOCw4MDcyNzg3NjMsLTM2NjI0MzQ3MCwtMzM1OTkw
+Mzk2XX0=
 -->
