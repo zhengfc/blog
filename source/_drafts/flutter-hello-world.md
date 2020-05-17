@@ -50,8 +50,10 @@ import 'package:flutter/widgets.dart';
   
 void main() => runApp(const Center(child: Text('Hello, world!', textDirection: TextDirection.ltr)));
 ```
+### 运行结果
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODA1NTc2NSw4MjQ4MjIzMTIsMTg3MT
+eyJoaXN0b3J5IjpbMTAwNDM2ODI3MSw4MjQ4MjIzMTIsMTg3MT
 A4ODM4NCwtMTI0NjI4MDgxOCw4MDcyNzg3NjMsLTM2NjI0MzQ3
 MCwtMzM1OTkwMzk2XX0=
 -->
