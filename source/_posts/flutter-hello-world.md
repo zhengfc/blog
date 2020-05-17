@@ -17,7 +17,7 @@ void main() {
 }
 ```
 ## Flutter Hello World
-打开Android Studio，安装Dart和Flutter插件;选择Flutter Examples目录下的Hello World.  
+打开Android Studio，安装Dart和Flutter插件；选择Flutter Examples目录下的Hello World.  
 ### 项目结构如下
 ```
 ├── hello_world
@@ -39,7 +39,7 @@ void main() {
     └── pubspec.yaml
     ├── README.md
 ```
-正如Flutter的定义一样Flutter代码能生成移动端```android ios fuchsia```发布包, 并且能运行在```web```端.  
+正如Flutter的定义一样，Flutter代码能生成移动端```android ios fuchsia```发布包, 并且能运行在```web```端.  
 ### 代码启动入口```main.dart```
 ``` dart
 // Copyright 2015 The Chromium Authors. All rights reserved.  
@@ -53,5 +53,5 @@ void main() => runApp(const Center(child: Text('Hello, world!', textDirection: T
 ### 运行结果
 ![hello flutter](https://drive.google.com/file/d/1CzwGmYcLi8vJ8wK9NviTyCjqY3RoU4L6/view?usp=drivesdk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTI1MzU5NF19
+eyJoaXN0b3J5IjpbMTEyODc0Mzg2MCwtNTIxMjUzNTk0XX0=
 -->
