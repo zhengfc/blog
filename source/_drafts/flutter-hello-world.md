@@ -17,7 +17,7 @@ void main() {
 }
 ```
 ## Flutter Hello World
-
+Google官方Flutter的Hello world是一个计数器代码
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTkxNzkyMiwtMzM1OTkwMzk2XX0=
+eyJoaXN0b3J5IjpbLTM2NjI0MzQ3MCwtMzM1OTkwMzk2XX0=
 -->
