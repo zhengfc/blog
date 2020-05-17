@@ -22,21 +22,12 @@ void main() {
 ```
 ├── hello_world
     │   ├── android
-    │   │   └── fontawesome
-    │   │       ├── FontAwesome.otf
-    │   │       ├── fontawesome-webfont.eot
-    │   │       ├── fontawesome-webfont.svg
-    │   │       ├── fontawesome-webfont.ttf
-    │   │       ├── fontawesome-webfont.woff
-    │   │       └── fontawesome-webfont.woff2
+    │   │   └── ...
     │   ├── fuchsia
     │   │   └── meta
     │   │       ├── hello_world.cmx
     │   ├── ios
-    │   │   ├── ebook.css
-    │   │   └── website.css
-    │   │   ├── ebook.css
-    │   │   └── website.css
+    │   │   ├── ...
     │   ├── lib
     │   │   └── arabic.dart
     │   │   └── main.dart
@@ -49,7 +40,7 @@ void main() {
     ├── README.md
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0ODIyMzEyLDE4NzEwODgzODQsLTEyND
-YyODA4MTgsODA3Mjc4NzYzLC0zNjYyNDM0NzAsLTMzNTk5MDM5
-Nl19
+eyJoaXN0b3J5IjpbLTYxOTAzMDM2OSw4MjQ4MjIzMTIsMTg3MT
+A4ODM4NCwtMTI0NjI4MDgxOCw4MDcyNzg3NjMsLTM2NjI0MzQ3
+MCwtMzM1OTkwMzk2XX0=
 -->
