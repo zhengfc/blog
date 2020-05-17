@@ -39,10 +39,19 @@ void main() {
     └── pubspec.yaml
     ├── README.md
 ```
-lib下为程序入口，正如Flutter的定义一样Flutter代码能生存到移动端```android ios fuchsia```,web端.
-### 
+正如Flutter的定义一样Flutter代码能生存到移动端```android ios fuchsia```,web端.
+### 代码启动入口```main.dart```
+``` dart
+// Copyright 2015 The Chromium Authors. All rights reserved.  
+// Use of this source code is governed by a BSD-style license that can be  
+// found in the LICENSE file.  
+  
+import 'package:flutter/widgets.dart';  
+  
+void main() => runApp(const Center(child: Text('Hello, world!', textDirection: TextDirection.ltr)));
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTE0NzQwNCw4MjQ4MjIzMTIsMTg3MT
+eyJoaXN0b3J5IjpbMTA3ODA1NTc2NSw4MjQ4MjIzMTIsMTg3MT
 A4ODM4NCwtMTI0NjI4MDgxOCw4MDcyNzg3NjMsLTM2NjI0MzQ3
 MCwtMzM1OTkwMzk2XX0=
 -->
