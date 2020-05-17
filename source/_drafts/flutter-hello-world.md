@@ -6,7 +6,9 @@ date: 2020-05-17 13:40:00
 ---
 ## Flutter是什么
 [Flutter](https://github.com/flutter/flutter) is Google's SDK for crafting beautiful, fast user experiences for mobile, web and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
+Flutter是基于Dart语言的.
+## Dart Hello World
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYyNzc5OTcsLTMzNTk5MDM5Nl19
+eyJoaXN0b3J5IjpbLTEwMTI0NTI3OTksLTMzNTk5MDM5Nl19
 -->
