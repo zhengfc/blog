@@ -17,8 +17,9 @@ void main() {
 }
 ```
 ## Flutter Hello World
-打开Android Studio，安装Dart和Flutter插件;d
+打开Android Studio，安装Dart和Flutter插件;选择Flutter Examples目录下的Hello World.
+### 项目如下suo shi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzU2Nzg3NCw4MDcyNzg3NjMsLTM2Nj
-I0MzQ3MCwtMzM1OTkwMzk2XX0=
+eyJoaXN0b3J5IjpbLTE0MzUyOTkyNTUsODA3Mjc4NzYzLC0zNj
+YyNDM0NzAsLTMzNTk5MDM5Nl19
 -->
