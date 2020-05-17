@@ -10,12 +10,12 @@ Flutter是基于Dart语言的.
 ## Dart Hello World
 [Dart](https://github.com/dart-lang/sdk)是什么
 A client-optimized language for fast apps on any platform.
-打卡在线[DartPad]()，键入Hello world如下
+打卡在线[DartPad](https://dartpad.dev)，简单hello world如下
 ``` dart
 void main() {
-  print('hello world');
+  print('Hello World');
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5ODEzNDgyLC0zMzU5OTAzOTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MjMwNjI2MTgsLTMzNTk5MDM5Nl19
 -->
