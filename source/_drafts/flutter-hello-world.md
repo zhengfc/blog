@@ -17,8 +17,8 @@ void main() {
 }
 ```
 ## Flutter Hello World
-打开Android Studio，安装Dart和Flutter插件
+打开Android Studio，安装Dart和Flutter插件;d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3Mjc4NzYzLC0zNjYyNDM0NzAsLTMzNT
-k5MDM5Nl19
+eyJoaXN0b3J5IjpbMTIxNzU2Nzg3NCw4MDcyNzg3NjMsLTM2Nj
+I0MzQ3MCwtMzM1OTkwMzk2XX0=
 -->
