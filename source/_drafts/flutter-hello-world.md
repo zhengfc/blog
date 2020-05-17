@@ -20,9 +20,10 @@ void main() {
 打开Android Studio，安装Dart和Flutter插件;选择Flutter Examples目录下的Hello World.
 ### 项目如下所示
 ``` bash
-hello world
+--hello world
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDYyODA4MTgsODA3Mjc4NzYzLC0zNj
-YyNDM0NzAsLTMzNTk5MDM5Nl19
+eyJoaXN0b3J5IjpbMTg3MTA4ODM4NCwtMTI0NjI4MDgxOCw4MD
+cyNzg3NjMsLTM2NjI0MzQ3MCwtMzM1OTkwMzk2XX0=
 -->
