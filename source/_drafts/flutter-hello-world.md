@@ -17,7 +17,8 @@ void main() {
 }
 ```
 ## Flutter Hello World
-Google官方Flutter的Hello world是一个计数器代码
+打开Android Studio，安装Dart和Flutter插件
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjI0MzQ3MCwtMzM1OTkwMzk2XX0=
+eyJoaXN0b3J5IjpbODA3Mjc4NzYzLC0zNjYyNDM0NzAsLTMzNT
+k5MDM5Nl19
 -->
