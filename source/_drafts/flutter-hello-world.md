@@ -21,7 +21,7 @@ void main() {
 ### 项目如下所示
 ```
 ├── hello world
-    │   ├── fonts
+    │   ├── android
     │   │   └── fontawesome
     │   │       ├── FontAwesome.otf
     │   │       ├── fontawesome-webfont.eot
@@ -29,18 +29,18 @@ void main() {
     │   │       ├── fontawesome-webfont.ttf
     │   │       ├── fontawesome-webfont.woff
     │   │       └── fontawesome-webfont.woff2
-    │   ├── gitbook-plugin-fontsettings
+    │   ├── fuchsia
     │   │   ├── fontsettings.js
     │   │   └── website.css
-    │   ├── gitbook-plugin-highlight
+    │   ├── ios
     │   │   ├── ebook.css
     │   │   └── website.css
-    │   ├── gitbook-plugin-livereload
+    │   ├── lib
     │   │   └── plugin.js
-    │   ├── gitbook-plugin-lunr
+    │   ├── test
     │   │   ├── lunr.min.js
     │   │   └── search-lunr.js
-    │   ├── gitbook-plugin-search
+    │   ├── web
     │   │   ├── lunr.min.js
     │   │   ├── search-engine.js
     │   │   ├── search.css
@@ -57,7 +57,7 @@ void main() {
     └── search_index.json
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU3NjI2MzEsMTg3MTA4ODM4NCwtMT
-I0NjI4MDgxOCw4MDcyNzg3NjMsLTM2NjI0MzQ3MCwtMzM1OTkw
-Mzk2XX0=
+eyJoaXN0b3J5IjpbMTE5MTc1MDk5NywxODcxMDg4Mzg0LC0xMj
+Q2MjgwODE4LDgwNzI3ODc2MywtMzY2MjQzNDcwLC0zMzU5OTAz
+OTZdfQ==
 -->
