@@ -20,7 +20,7 @@ date: 22022-01-16 22:05:54
 * DAG
   * 作用(调度)
 * Yarn flow  
-![spark on yarn](../../themes/next/source/images/SparkonYarnFlow.png)
+![spark on yarn](/images/SparkonYarnFlow.png)
 * Yarn 运行模式(Driver运行节点位置不同)
   * client
   * cluster
