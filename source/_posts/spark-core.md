@@ -2,7 +2,7 @@
 title: Spark Core
 tags: [spark, yarn, sql] 
 categories: [spark]
-date: 22022-01-16 22:05:54
+date: 2022-01-16 22:05:54
 ---
 
 ## spark run
@@ -23,10 +23,15 @@ date: 22022-01-16 22:05:54
 ![spark on yarn](/images/SparkonYarnFlow.png)
 * Yarn 运行模式(Driver运行节点位置不同)
   * client
-  * cluster
+  * cluster  
+
 ## spark core coding
-### data struct
+### data struct(计算机存储组织数据的方式)
 * rdd
 * accumulator
 * broadcast
+### 分布式计算
+* 数据拆分
+* 逻辑一样
+* task(数据+逻辑)传给Executor
 ### RDD
